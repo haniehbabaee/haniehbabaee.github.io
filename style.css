@@ -8,4 +8,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     }
-.
+.jumbotron {
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: burlywood;
+}
